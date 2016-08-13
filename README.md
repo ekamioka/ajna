@@ -1,7 +1,7 @@
 <div id="fixed_width_content">
       
     <br>
-    <center><img src="../image/ajna-small.jpg" alt="logo"></center>
+    <center><img src="https://github.com/ekamioka/ajna/blob/master/image/ajna-small.jpg" alt="logo"></center>
     <br>
 
     <center><h2>AJNA</h2></center>
